@@ -1,0 +1,76 @@
+.header {
+ background:black;
+ color: white;
+ text-align: center;
+ padding-top: 30px;
+ padding-bottom: 10px;
+}
+
+.h1{
+  font-size: 45px;
+  font-family: tahoma;
+  letter-spacing: 10px;
+}
+
+.h2{
+  font-size: 20px;
+  font-family: arial, hel;
+}
+
+.sec{
+  background: white;
+  text-align: center;
+  font-family: tahoma;
+  font-size: 20px;
+  color: gray;
+}
+
+.section{
+  background: purple;
+  color: white;
+  text-align: left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  font-family: tahoma;
+  font-size: 15px;
+}
+
+.sec2{
+  display: flex;
+  padding-bottom: 30px;
+}
+
+.fig{
+  color: gray;
+  font-family: tahoma;
+  font-size: 15px;
+  padding-left: 200px;
+  padding-top: 20px;
+}
+
+.ul{
+  color: gray;
+  font-family: tahoma;
+  font-size: 15px;
+  padding-left: 350px;
+}
+
+.footer{
+  background: gray;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  color: white;
+  text-align:center;
+  font-family: tahoma;
+  font-size: 15px;
+}
+
+.links{
+  text-align: left;
+  padding-left: 20px;
+}
+.op{
+  padding-left: 25px;
+}
+
