@@ -32,12 +32,12 @@ for(const nota of notas){
     console.log(nota);
 }*/
 
-/*const refeicoes = {manha: "café com pão", tarde: "macarronada", noite: "PIZZA" }
+const refeicoes = {manha: "café com pão", tarde: "macarronada", noite: "PIZZA" }
 
   console.log(refeicoes.manha);
   console.log(refeicoes.tarde);
   console.log(refeicoes.noite);
 
-/*for(const chave in refeicoes){
+for(const chave in refeicoes){
     console.log(refeicoes[chave]);
-}*/
+}
